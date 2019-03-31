@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-	int N; //ºÐÇØÇÕ
+	int N;
 	int M = 1; 
 	cin >> N;
 	while (M <= N) {
